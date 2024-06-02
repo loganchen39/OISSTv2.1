@@ -1,0 +1,541 @@
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+regrid_sst_ACSPO-L3C2OI_noaa17.py:145: RuntimeWarning: invalid value encountered in subtract
+  daily_sst_avg_l3c2oi_final = xr.where(daily_sst_num_l3c2oi_final==0, -9999, daily_sst_avg_l3c2oi_final-273.15)
+
+
+ current date:  20091128
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091128120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091128120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091129
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091129120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091129120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091130
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091130120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091130120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091201
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091201120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091201120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091202
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091202120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091202120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091203
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091203120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091203120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091204
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091204120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091204120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091205
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091205120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091205120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091206
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091206120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091206120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091207
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091207120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091207120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091208
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091208120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091208120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091209
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091209120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091209120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091210
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091210120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091210120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091211
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091211120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091211120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091212
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091212120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091212120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091213
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091213120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091213120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091214
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091214120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091214120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091215
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091215120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091215120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091216
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091216120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091216120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091217
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091217120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091217120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091218
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091218120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091218120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091219
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091219120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091219120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091220
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091220120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091220120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091221
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091221120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091221120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091222
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091222120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091222120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091223
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091223120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091223120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091224
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091224120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091224120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091225
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091225120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091225120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091226
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091226120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091226120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091227
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091227120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091227120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091228
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091228120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091228120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091229
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091229120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091229120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091230
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091230120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091230120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20091231
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091231120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20091231120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100101
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100101120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100101120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100102
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100102120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100102120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100103
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100103120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100103120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100104
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100104120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100104120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100105
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100105120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100105120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100106
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100106120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100106120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100107
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100107120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100107120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100108
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100108120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100108120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100109
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100109120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100109120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100110
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100110120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100110120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100111
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100111120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100111120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100112
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100112120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100112120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100113
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100113120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100113120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100114
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100114120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100114120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100115
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100115120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100115120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100116
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100116120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100116120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100117
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100117120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100117120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100118
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100118120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100118120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100119
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100119120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100119120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100120
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100120120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100120120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100121
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100121120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100121120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100122
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100122120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100122120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100123
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100123120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100123120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100124
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100124120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100124120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100125
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100125120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100125120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100126
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100126120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100126120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100127
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100127120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100127120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100128
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100128120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100128120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100129
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100129120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100129120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100130
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100130120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100130120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100131
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100131120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100131120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100201
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100201120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100201120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100202
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100202120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100202120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100203
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100203120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100203120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100204
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100204120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100204120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100205
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100205120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100205120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100206
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100206120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100206120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100207
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100207120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100207120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100208
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100208120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100208120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100209
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100209120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100209120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100210
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100210120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100210120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100211
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100211120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100211120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100212
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100212120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100212120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100213
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100213120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100213120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100214
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100214120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100214120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100215
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100215120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100215120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100216
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100216120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100216120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100217
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100217120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100217120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100218
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100218120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100218120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100219
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100219120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100219120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100220
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100220120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100220120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100221
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100221120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100221120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100222
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100222120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100222120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100223
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100223120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100223120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100224
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100224120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100224120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100225
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100225120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100225120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100226
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100226120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100226120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100227
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100227120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100227120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100228
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100228120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100228120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100301
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100301120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100301120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100302
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100302120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100302120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100303
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100303120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100303120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100304
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100304120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100304120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100305
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100305120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100305120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100306
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100306120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100306120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100307
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100307120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100307120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc
+
+
+ current date:  20100308
+00000, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100308120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_D-ACSPO_V2.81-v02.0-fv01.0.nc
+00001, current file:  /glade/scratch/lgchen/data/ACSPO_L3C/noaa17/20100308120000-STAR-L3C_GHRSST-SSTsubskin-AVHRRG_N17_N-ACSPO_V2.81-v02.0-fv01.0.nc

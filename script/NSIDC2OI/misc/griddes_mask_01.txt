@@ -1,0 +1,14 @@
+gridtype  = projection
+xsize     = 13333
+ysize     = 13333
+xname     = x
+xunits    = "meters"
+yname     = y
+yunits    = "meters"
+xfirst    = -3333000
+xinc      = 500
+yfirst    = 3333000
+yinc      = -500
+grid_mapping = mapping
+grid_mapping_name = polar_stereographic
+proj_params = "+proj=stere +lat_0=-90 +lat_ts=-71 +lon_0=0 +k=1 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"

@@ -1,0 +1,26 @@
+#
+# gridID 1
+#
+gridtype  = projection
+gridsize  = 177768889
+xsize     = 13333
+ysize     = 13333
+xname     = x
+xlongname = "Cartesian x-coordinate"
+xunits    = "meter"
+yname     = y
+ylongname = "Cartesian y-coordinate"
+yunits    = "meter"
+xfirst    = -3333000
+xinc      = 500
+yfirst    = 3333000
+yinc      = -500
+grid_mapping = mapping
+grid_mapping_name = polar_stereographic
+latitude_of_projection_origin = -90.
+standard_parallel = -71.
+straight_vertical_longitude_from_pole = 0.
+semi_major_axis = 6378273.
+inverse_flattening = 298.27940504282
+false_easting = 0.
+false_northing = 0.

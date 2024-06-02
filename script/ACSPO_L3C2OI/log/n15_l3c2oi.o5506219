@@ -1,0 +1,13 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+Lmod is automatically replacing "intel/19.1.1" with "gnu/10.1.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mpt/2.25     2) ncarcompilers/0.5.0     3) netcdf/4.8.1
+
+PYTHONPATH: Undefined variable.
+PYTHONPATH: Undefined variable.
+=>> PBS: job killed: walltime 43209 exceeded limit 43200
+Terminated
